@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Claude / Anthropic Terracotta Asterisk Petals centered at 54,54 -->
+        <!-- Vertical Bar -->
+        <path
+            android:fillColor="#D97757"
+            android:pathData="M50.5,26 C50.5,24.07 52.07,22.5 54,22.5 C55.93,22.5 57.5,24.07 57.5,26 L57.5,82 C57.5,83.93 55.93,85.5 54,85.5 C52.07,85.5 50.5,83.93 50.5,82 Z" />
+        <!-- Horizontal Bar -->
+        <path
+            android:fillColor="#D97757"
+            android:pathData="M26,50.5 C24.07,50.5 22.5,52.07 22.5,54 C22.5,55.93 24.07,57.5 26,57.5 L82,57.5 C83.93,57.5 85.5,55.93 85.5,54 C85.5,52.07 83.93,50.5 82,50.5 Z" />
+        <!-- Diagonal 45 deg Bar -->
+        <path
+            android:fillColor="#D97757"
+            android:pathData="M34.15,30.62 C32.79,29.25 32.79,27.04 34.15,25.68 C35.52,24.31 37.73,24.31 39.1,25.68 L78.89,65.47 C80.26,66.84 80.26,69.05 78.89,70.41 C77.53,71.78 75.31,71.78 73.95,70.41 Z" />
+        <!-- Diagonal 135 deg Bar -->
+        <path
+            android:fillColor="#D97757"
+            android:pathData="M73.95,25.68 C75.31,24.31 77.53,24.31 78.89,25.68 C80.26,27.04 80.26,29.25 78.89,30.62 L39.1,70.41 C37.73,71.78 35.52,71.78 34.15,70.41 C32.79,69.05 32.79,66.84 34.15,65.47 Z" />
+        <!-- Diagonal 22.5 deg Bar -->
+        <path
+            android:fillColor="#C15F3C"
+            android:pathData="M27.2,43.2 C25.5,42.4 24.8,40.4 25.6,38.7 C26.4,37.0 28.4,36.3 30.1,37.1 L77.9,64.8 C79.6,65.6 80.3,67.6 79.5,69.3 C78.7,71.0 76.7,71.7 75.0,70.9 Z" />
+        <!-- Diagonal 157.5 deg Bar -->
+        <path
+            android:fillColor="#C15F3C"
+            android:pathData="M75.0,37.1 C76.7,36.3 78.7,37.0 79.5,38.7 C80.3,40.4 79.6,42.4 77.9,43.2 L30.1,70.9 C28.4,71.7 26.4,71.0 25.6,69.3 C24.8,67.6 25.5,65.6 27.2,64.8 Z" />
+        <!-- Central hub circle for smooth fusion -->
+        <path
+            android:fillColor="#D97757"
+            android:pathData="M54,54m-9,0a9,9 0,1,1 18,0a9,9 0,1,1 -18,0" />
+    </group>
+</vector>

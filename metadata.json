@@ -1,0 +1,6 @@
+{
+  "name": "Claude",
+  "description": "High-fidelity Android reconstruction of the Claude application experience with conversational intelligence, projects, artifacts, and Claude Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
